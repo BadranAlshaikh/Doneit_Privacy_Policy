@@ -430,3 +430,7 @@
 <p><strong>12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</strong></p>
 
 <p>You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: <a href="https://github.com/BadranAlshaikh" rel="noopener" target="_blank">https://github.com/BadranAlshaikh</a>.</p>
+
+![Logo email](https://github.com/BadranAlshaikh/Doneit_Privacy_Policy/assets/141728934/8bea24d1-6085-49a9-821d-1ddeebf23fa9)
+
+
